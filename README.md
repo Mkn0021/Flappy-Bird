@@ -1,3 +1,26 @@
+## Screenshots
+<img src="Screenshots/Flappy Bird (2).png" width="673" height="505"/>
+<img src="Screenshots/Flappy Bird (3).png" width="673" height="505"/>
+<img src="Screenshots/Flappy Bird (1).png" width="673" height="505"/>
+
+## Feature
+**Responsive Screen Size:**  The game adapts to different screen sizes, providing a consistent and enjoyable experience across devices.
+
+**Dynamic Sound Effects:** Engage players with immersive sound effects, including background music and interactive bird actions.
+
+**Customizable Bird Appearance:** Choose from a selection of three vibrant bird colors, allowing players to personalize their gaming experience.
+
+**Challenging Obstacle Patterns:** Experience a variety of obstacle patterns that dynamically change, providing an ever-evolving challenge for players.
+
+**Score Tracking:** Keep track of players' achievements with a built-in scoring system, encouraging competition and improvement.
+
+**Responsive Controls:** Ensure smooth and responsive controls, enhancing the player's ability to navigate through obstacles with precision.
+
+**Game Over Screen:** Implement a visually appealing "Game Over" screen with feedback on the player's performance and an option to restart the game.
+
+**<---For More Try Yourself--->**
+
+
 To run this code in Code::Blocks, you need to follow these steps:
 
 1. **Install Code::Blocks:**
@@ -37,3 +60,6 @@ To run this code in Code::Blocks, you need to follow these steps:
    - If everything is set up correctly, the Flappy Bird game should run in a new window.
 
 Remember to check the console for any error messages if the program doesn't run as expected. If there are any missing dependencies or incorrect file paths, the console output will provide useful information.
+
+For any types of problems, feel free to contact [Me](https://t.me/Mkn0021).
+
